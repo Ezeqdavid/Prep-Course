@@ -1,0 +1,35 @@
+Explicacion para infantes de 12 años.
+
+Variables
+
+Las variables son como cajas, en las que podemos guardar diferentes cosas u objetos. 
+Nosotros elegimos que poner dentro de la caja y tambien le damos un nombre para asi identificarla.
+Después de haber guardado algo dentro de la caja o variable y de haberle dado un nombre, podemos
+usar el nombre que le dimos a la caja para recordar que era lo que pusimos adentro y usarlo.
+Lo que esta adentro de la caja puede variar o cambiar con el tiempo, podemos reemplazarlo.
+
+Strings
+
+Las strings son el texto de la computadora, pueden ser palabras, letras, numeros, letras y numeros.
+Las strings siempre estan dentro de dos pares de comillas, todo lo que este dentro, sea lo que sea, va a ser un string.
+
+Funciones
+
+Las funciones son acciones que le decimos a la compu como hacerlas, les decimos que hacer y como.
+La compu guarda esta funciones, se las acuerda para que despues las podamos volver a usar y no estemos repitiendo mil veces lo que queremos hacer.
+Estas funciones pueden tener modificaciones chiquitas, capaz que una vez en vez de tener un cuadrado de 5 metros, tengo uno de 20, en vez de comprar 10 cosas, compre 30.
+Y siempre queremos usar la misma funcion, para escribir menos porque somos vagos. Entonces podemos usar argumentos o parametros, que nos van a permitir introducirle a la funcion
+estos datos que vayan cambiando dependiendo el caso. 
+Hay funciones que nos devuelven algo, nos muestran algo, nos responden con lo que le pedimos, esto que le pedimos, lo que queremos que nos responda se aclara con la palabara reservada o clave return.
+Lo que este seguido del return es lo que nos va a responder la funcion cuando la llamemos para que actue.
+
+Declaraciones
+
+Las declaraciones if nos permiten tomar decisiones segun una condicion que le digamos, como cuando nuestro padre/madre nos dice "Anda a comprar pan y SI NO HAY compra figasa".
+Asi nosotros podemos poner una condicion para que la computadora tome un camino u otro.
+
+Valores Booleanos
+
+Los valores booleanos son 2, true o false, verdadero o falso, prendido o apagado. Es parecido a un interrumpor de la luz, la luz esta prendida o apagada.
+
+
