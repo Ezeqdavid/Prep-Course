@@ -1,0 +1,35 @@
+Explicacion de conceptos
+
+
+Objetos:
+
+Los objetos son entidades que creamos y existen dentro del entorno de programacion.
+Podemos hablar de objeto porque tiene cualidades, propiedades que definimos.
+
+Propiedades:
+Las propiedades de un objeto son particularidades que tiene un objeto como por ejemplo un perro,
+puede tener una raza, eso es una propiedad, puede tener un dia de nacimiento, puede tener un color de pelo.
+Estas propiedades son caracteristicas que definen cualidades del objeto.
+
+
+Metodos:
+
+Los metodos son operaciones que realizan los objetos con informacion que ellos tienen,
+si los objetos saben su edad, pueden contarte cuantos segundos de vida tiene con un metodo,
+si el metodo le pide informacion a otro objeto, pueden comunicarse por ejemplo si un objeto es un humano y otro un perro
+un metodo puede comparar cuantos años de vida tiene cada uno y cuanto tiempo llevan compartido juntos.
+
+For..in:
+
+Como hablamos antes del "For", ahora se agrega el "in" porque pueden existir arreglos o array de objetos.
+"For"(para) "in" (en) podemos definir un bucle de acciones para los humanos en el arreglo llamado (casa),
+entonces quedaria for (humanos in casa) entonces el bucle se le va aplicar a cada "objeto" humano dentro del array "casa".
+
+Notacion de puntos vs notación de corchetes:
+
+Los objetos tienen metodos que son llamados al escribirlos proximos al objeto con un punto entre medio, como
+humano.saludar() nos devolveria "Hola, todo bien?", hay otra forma aparte de escribir explicitamente el metodo.
+Esta forma diferentes de llamar al metodo puede ser mediante variables, o sea nosotros no escribimos el nombre del metodo
+sino que escribimos una variable que luego va a ser llenada por el nombre del metodo que corresponda, seria algo asi:
+humano[variable], en este caso puede ser que la variable sea "saludar" y nos devuelva "Hola, todo bien?" o que la variable sea
+"despedirse" y nos devuelva "Chau, nos vemos".

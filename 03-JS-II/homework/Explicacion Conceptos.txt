@@ -1,0 +1,28 @@
+Explicación de los conceptos "for" y operadores logicos.
+
+
+For loop:
+
+
+"For" significa "para". Podemos pensarlo como que "para"(for) cada paso va a realizar una operacion,
+un metodo, una suma, una transformacion. Eso lo definimos en nuestro codigo dentro de las llaves del for.
+Decimos que el loop o bucle se cumple para una cantidad de veces hasta que se cumpla cierta condicion.
+Luego de que se cumpla la condicion, se termina el for y se sigue con el resto del codigo fuera de las llaves o 
+termina el metodo si es que no habia nada despues.
+
+
+&&, ||, !
+
+Los operadores logicos &&, || y ! es mucho mas sencillos recordarlos al saber que hacen.
+Todo el tiempo usamos operadores logicos cuando hablamos en el dia dia. 
+
+&& significa "Y" o "and", cuando una condicion se cumple y cuando la otra condicion se cumple, estamos felices.
+un ejemplo seria asi, si te va bien en la escuela Y (&&) ayudas en la casa, te compramos una ps4.
+La primer condicion es que te vaya bien en la escuela, la segunda que ayudes en casa y el operador && une las dos condiciones.
+
+|| significa "o" o "or", en este caso esperamos que una condicion o la otra se cumplan y ya somos felices.
+un ejemplo seria, cuando vuelva a casa quiero que hayas limpiado tu pieza O (||) hayas juntado las hojas del patio.
+Tenemos dos condiciones de nuevo pero tenemos || en el medio, asi que con cumplir una de las dos condiciones, ya esta todo bien.
+
+! o "not" es una negacion, al igual que cuando hablamos, convierte lo lindo en feo, lo verdadero en falso.
+No es lo mismo decir "Quiero verte feliz" a "No quiero verte feliz", el operador ! convierte la condicion que tiene al lado en lo contrario.

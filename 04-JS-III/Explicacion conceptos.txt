@@ -1,0 +1,17 @@
+Explicacion del concepto de Array.
+
+
+Array:
+
+Array significa "arreglo", podemos pensarlo como un arreglo floral.
+En un florero juntamos muchas flores para tener un arreglo floral, todas son flores,
+algunas con mas petalos, con menos, algunas con mas edad, algunas con menos, algunas mas grandes,
+algunas mas pequeñas, pero todas flores.
+Un arreglo es un conjunto de elementos, donde cada elemento tiene su lugar y su orden,
+similar a como son los bancos en la escuela, uno sabe quien esta sentado en el banco 1, 
+el bando 2, el banco 3, asi es como los elementos de un arreglo se ubican cada uno en un espacio
+que tiene un numero de indice para saber que espacio es.
+
+En javascript tenemos la peculiaridad que los arreglos pueden ser de cualquier cosa, juntamos
+flores con asado, perritos con almohadones y esta todo bien.
+ 

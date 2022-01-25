@@ -1,0 +1,24 @@
+Conceptos prototype y constructors.
+
+prototype:
+
+El prototype podemos entenderlo como el entorno de una clase, cuando una objeto de una clase es creado
+este se crea tomando los metodos del prototypo de su clase y utilizandolos desde alli,
+porque si cada vez que creamos un objeto de una clase, es tuviesemos definiendo nuevamente los metodos,
+ocupariamos muchisimo espacio.
+Imaginemoslo asi, si yo te digo que recuerdes una secuencia de palabras porque te la voy a pedir, para esto podes anotarlo
+"arbol, hoja, salto, luz, aproximacion", ahora te voy a repetir la misma secuencia de palabras, vas a volver a anotarlo? 
+¿O vas a leerlo desde lo que tenes anotado cuando te lo pida?
+Asi como nosotros anotamos y no volvemos a anotar lo mismo porque estariamos gastando hojas de mas en algo que ya tenemos guardado.
+La computadora hace lo mismo, el prototype es esa hoja que anotamos por primera vez y a la que recurrimos cuando necesitamos algo.
+Asi tambien el prototype es el lugar donde debemos agregar nuevos metodos a nuestra clase si es que asi queremos.
+
+Constructores:
+
+Los constructores son un codigo que se ejecuta una sola vez al crear un objeto de una clase, nos puede servir para realizar una operacion 
+aunque generalmente se utiliza para inicializar los atributos o propiedades del objeto.
+Podemos pensarlo como el molde de los juegos de masa, nosotros tenemos una masa amorfa pero una vez que se le aplica el molde (constructor) queda con una forma
+delimitada y es creado un dinosaurio o nuestro objeto con sus metodos y propiedades inicializadas.
+ 
+
+ 
